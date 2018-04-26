@@ -1,0 +1,5 @@
+When creating a reprex by hand, it’s easy to accidentally miss something that means your code can’t be run on someone else’s computer. 
+Avoid this problem by using the reprex package. 
+It’s installed as part of the tidyverse (will be true soon) or you can install it by itself. 
+Go ahead and load it.
+
