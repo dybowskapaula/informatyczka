@@ -1,0 +1,4 @@
+If you need help getting unstuck, the first step is to create a reprex, or reproducible example. 
+The goal of a reprex is to package your problematic code in such a way that other people can run it and feel your pain. 
+Then, hopefully, they can provide a solution and put you out of your misery.
+
